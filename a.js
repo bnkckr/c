@@ -7,7 +7,7 @@
   <body>
     <h1>It's <%=day%> </h1>
     <ul>
-
+     <h1> hi </h1>
     <% for(var i=0;i<items.length;i++){ %>
     <li><%= items[i] %></li>
   <%  } %>
